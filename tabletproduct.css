@@ -1,0 +1,92 @@
+body {
+}
+section {
+		width: 768px;
+		margin-left: 25%;
+		margin-right: 25%;
+		margin-top: 0;
+		margin-bottom: 0;
+}
+header {
+		background-image: url("companylogoBG.jpg");
+		background-size: 100% 150%;
+}
+nav {
+		font-family: "Arial";
+		font-size:;
+		color: #FFFFFF;
+		text-align: center;
+		word-spacing: 20px;
+		background-color: #707070;
+		padding-top: 7.5px; 
+		padding-bottom: 7.5px;
+}
+article {
+		
+}
+footer {
+	
+}
+img {
+		width: 49%;
+		height: 225px;
+}
+h1 {
+		font-family: "Berlin Sans FB";
+		font-size: 300%;
+		color:#FFFFFF;
+		text-align: center;
+		padding-top: 25px; 
+		padding-bottom: 25px;
+		text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+		margin-top: 0;
+		margin-bottom: 0;
+}
+h2 {
+		font-family: "Arial";
+		font-size: 350%;
+		font-weight: normal; 
+		color:#FFFFFF;
+		text-align: center;
+		background-color: #2699FB;
+		padding-top: 10px; 
+		padding-bottom: 10px;
+		padding-right: 40px;
+		padding-left: 40px;
+		margin-top: 0;
+		margin-bottom: 0;
+		height: 50px;
+	
+}
+p {
+		font-family: "Arial";
+		font-size:;
+		font-weight: normal; 
+		color:#FFFFFF;
+		text-align: center;
+		background-color: #000000;
+		padding-top: 1px; 
+		padding-bottom: 1px;
+		margin-top: 0;
+		margin-bottom: 0;
+}
+a {
+		color: white;
+		text-decoration: none;
+}
+p.foto {
+		background-color: white;
+}
+p.gegevens {
+		font-family: "Arial";
+		font-size:;
+		font-weight: normal; 
+		color:#FFFFFF;
+		text-align: center;
+		background-color: #000000;
+		padding-top: 7.5px; 
+		padding-bottom: 7.5px;
+		margin-top: 0;
+		margin-bottom: 0;
+}
+
